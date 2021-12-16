@@ -70,7 +70,7 @@ writeToMtx(rawData2, 'Sample2')
 
 ## Some of the samples were run to an older ADT whitelist than others.
 ## We changed to old AB names to the new AB names.
-## How to change the old AB names into the correct AB name, can be found in the 4e_TranslateABs.txt file 
+## How to change the old AB names into the correct AB name, can be found in the 4f_TranslateABs.txt file 
 
 ########## Sample1 ##########
 rawDataSparse <- Read10X("PATH/TO/Sample1/filtered_feature_bc_matrix/")
